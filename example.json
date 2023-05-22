@@ -1,0 +1,995 @@
+{
+  "type": "ProductCollection",
+  "product": [
+    {
+      "no": "1",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP TOSHIBA 15”",
+      "des": "6SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "6,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, at ius sonet eruditi, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "2",
+      "id": "TSB-41252",
+      "itemName": "LAPTOP TOSHIBA 13”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "16,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, at ius sonet eruditi, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "3",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP TOSHIBA 24”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2020",
+      "price": "26,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, at ius sonet eruditi, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "4",
+      "id": "TSB-41251",
+      "itemName": "SMARTPHONE TOSHIBA 7”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2023",
+      "price": "36,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, at ius sonet eruditi, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "5",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "6",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "7",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "8",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "9",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "10",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "11",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "12",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "13",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "14",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "15",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "16",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "17",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "18",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "19",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "20",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "21",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "22",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "23",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "24",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "25",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "26",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "27",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "28",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "29",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    },
+    {
+      "no": "30",
+      "id": "TSB-41251",
+      "itemName": "LAPTOP MSI 15”",
+      "des": "SIGMA CO.",
+      "warehouseType": "General warehouse",
+      "itemGroup": "ELECTRONIC",
+      "date": "04/12/2022",
+      "price": "46,500,000",
+      "itemDetail": [
+        {
+          "name": "Item SP239",
+          "quantity": "40",
+          "date": "04/05/2023",
+          "des": "Lorem ipsum dolor sit amet, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+        }
+      ],
+      "productInfo": [
+        {
+          "brand": "Adamwathan",
+          "model": "Adamwathan",
+          "number": "124124",
+          "year": "2012",
+          "manufacturing": "43"
+        }
+      ],
+      "Environment": [
+        {
+          "temporature": "30",
+          "packing": "--"
+        }
+      ]
+    }
+  ]
+}

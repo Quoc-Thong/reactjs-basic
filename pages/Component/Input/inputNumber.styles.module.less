@@ -1,0 +1,43 @@
+.custom-input-number {
+  border-color: var(--primary-border-color);
+  border-width: 1px !important;
+  box-shadow: none !important;
+  width: 100%;
+
+  .select-size(@height) {
+    height: @height;
+
+    & > div[class*='ant-input-number-input-wrap'] {
+      height: @height;
+      width: 100%;
+      & > input {
+        height: @height !important;
+        padding: 0px 16px !important;
+        width: 100%;
+        font-size: 16px !important;
+      }
+    }
+  }
+
+  &-large {
+    .select-size(var(--large-height));
+  }
+
+  &-middle {
+    .select-size(var(--middle-height));
+  }
+
+  &-small {
+    .select-size(var(--small-height));
+  }
+
+  &-addon-after {
+    height: 100%;
+    border: none;
+  }
+
+  &-addon-before {
+    height: 100%;
+    border: none;
+  }
+}

@@ -1,0 +1,41 @@
+.custom-button {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  .select-size(@height, @padding, @font-size, @gap, @icon-size) {
+    height: @height !important;
+    min-width: @height;
+    padding: 0px @padding !important;
+    box-shadow: none !important;
+    gap: @gap;
+    & > span {
+      font-size: @font-size !important;
+      & > svg {
+        font-size: @icon-size;
+      }
+    }
+  }
+
+  &-disabled {
+    background: var(--disabled-color) !important;
+  }
+
+  &-large {
+    .select-size(var(--large-height), 20px, 18px, 8px, 18px);
+  }
+
+  &-middle {
+    .select-size(var(--middle-height), 18px, 14px, 7px, 18px);
+  }
+
+  &-small {
+    .select-size(var(--small-height), 12px, 12px, 6px, 18px);
+  }
+
+  &-secondary {
+    background: var(--secondary-color) !important;
+    color: #fff !important;
+  }
+}

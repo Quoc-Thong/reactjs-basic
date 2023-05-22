@@ -1,0 +1,121 @@
+.custom-input {
+  border-color: var(--primary-border-color);
+  border-width: 1px !important;
+  box-shadow: none !important;
+  font-size: 16px !important;
+  border-radius: 4px;
+  padding: 0px 16px !important;
+  width: 100%;
+
+  input[type='password'] {
+    font-size: 16px !important;
+    height: 100%;
+    border: none;
+
+    &:focus {
+      border: none;
+      box-shadow: none;
+    }
+  }
+
+  input[type='text'] {
+    font-size: 16px !important;
+    height: 100%;
+    border: none;
+    &:focus {
+      border: none;
+      box-shadow: none;
+    }
+  }
+
+  &:hover,
+  &:focus-within {
+    border-color: var(--primary-color);
+  }
+
+  &::placeholder {
+    font-size: 16px;
+  }
+
+  &-error {
+    border-color: var(--error-color);
+    &:hover,
+    &:focus-within {
+      border-color: var(--error-color);
+    }
+  }
+
+  .select-size(@height, @icon) {
+    height: @height !important;
+    line-height: calc(@height - 2px) !important;
+
+    & > span[class*='ant-input-wrapper'] {
+      height: 100% !important;
+
+      & > span[class*='ant-input-group-addon'] {
+        border: none;
+        height: 100%;
+        width: calc(@height - 2px);
+
+        & > span > svg {
+          font-size: @icon;
+          line-height: @icon;
+          color: #94a3b8;
+        }
+      }
+
+      & > span[class*='ant-input-affix-wrapper'] {
+        border: none;
+        height: 100%;
+        padding: 0px 12px;
+
+        &:hover,
+        &:focus-within,
+        &:focus-visible {
+          border: none !important;
+          box-shadow: none !important;
+        }
+
+        input[type='password'] {
+          font-size: 16px !important;
+          height: 100%;
+        }
+
+        input[type='text'] {
+          font-size: 16px !important;
+          height: 100%;
+        }
+      }
+    }
+  }
+
+  &-large {
+    .select-size(var(--large-height), var(--large-icon));
+  }
+
+  &-middle {
+    .select-size(var(--middle-height), var(--middle-icon));
+  }
+
+  &-small {
+    .select-size(var(--small-height), var(--small-icon));
+  }
+
+  .addonBefore{
+    padding: 10px;
+    border-radius: 0px!important;
+    background-color:#F1F5F9;
+  }
+
+}
+
+.custom-input-addon-before {
+  padding: 0px !important;
+
+  .addonBefore{
+    padding: 10px;
+    border-radius: 0px!important;
+    background-color:#F1F5F9;
+  }
+
+}

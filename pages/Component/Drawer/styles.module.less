@@ -1,0 +1,46 @@
+.drawer {
+  & > div > div:nth-child(3) {
+    border-top: none !important;
+    padding: 16px !important;
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+  }
+
+  & > button {
+    // background-color: red !important;
+    color: #94a3b8 !important;
+    border: 1px solid #94a3b8 !important;
+  }
+}
+
+.form {
+  & > div > div > div > label {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    color: #64748b;
+  }
+}
+
+.footer-button-right {
+  & > button:first-child {
+    color: #26a644 !important;
+    border-color: #26a644 !important;
+    &:hover {
+      color: #fff !important;
+      background-color: #26a644;
+    }
+  }
+}

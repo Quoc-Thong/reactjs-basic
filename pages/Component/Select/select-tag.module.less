@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.tag {
+  background: var(--neutral-100);
+  padding: 2px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: var(--neutral-600);
+  cursor: pointer;
+
+  &-selected {
+    background: #d1fae5;
+    color: #065f46;
+  }
+}
