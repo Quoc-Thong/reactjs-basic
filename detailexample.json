@@ -1,0 +1,23 @@
+{
+  "id": "TSB-41251",
+  "itemDetail": {
+    "name": "Item SP239",
+    "detail": "Item detail",
+    "quantity": "40",
+    "date": "04/05/2023",
+    "des": "Lorem ipsum dolor sit amet, at ius sonet eruditi, pro amet dictas et. Eam delenit praesent iracundia ut, ea his quot causae atomorum. Etiam recusabo definitiones an est. Oratio nonumes lobortis nec no, his dicta comm"
+  },
+  "productInfo": {
+    "info": "Product info",
+    "brand": "Adamwathan",
+    "model": "Adamwathan",
+    "number": "124124",
+    "year": "2012",
+    "manufacturing": "43"
+  },
+  "environment": {
+    "environment": "Environment",
+    "temporature": "30",
+    "packing": "--"
+  }
+}
